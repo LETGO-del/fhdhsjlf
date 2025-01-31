@@ -5,7 +5,9 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "audio-recording": "*"
+        "audio-recording": "*",
+        "servo": "*",
+        "datalogger": "*"
     },
     "files": [
         "main.blocks",
