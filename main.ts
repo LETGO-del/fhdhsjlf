@@ -1,3 +1,4 @@
+record.setMicGain(record.AudioLevels.Low)
 if (record.audioStatus(record.AudioStatus.BufferEmpty)) {
     datalogger.deleteLog()
 }
